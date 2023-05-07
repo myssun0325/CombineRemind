@@ -12,6 +12,8 @@ Combine 다시 훑고 적용하기
 
 #### [3.Transformning Operators](3.TransformingOperators/3.TransformingOperators.md)
 
+#### [4.Filtering Operators](4.FilteringOperators/4.FilteringOperators.md)
+
 
 ![Publisher&Subscriber](resources/intro.png)
 
