@@ -1,6 +1,6 @@
 # CombineRemind
 
-Combine 다시 훑고 적용하기
+Combine 다시 훑고 적용하기. 하루 하나씩 업데이트 예정
 
 [이전 책 내용 정리 링크](https://github.com/myssun0325/CombineStudy#combinestudy)
 
