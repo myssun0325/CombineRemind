@@ -14,6 +14,8 @@ Combine 다시 훑고 적용하기
 
 #### [4.Filtering Operators](4.FilteringOperators/4.FilteringOperators.md)
 
+#### [5.Combining Operators](5.CombiningOperators/5.CombiningOperators.md)
+
 
 ![Publisher&Subscriber](resources/intro.png)
 
