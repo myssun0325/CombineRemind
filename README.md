@@ -16,6 +16,8 @@ Combine 다시 훑고 적용하기. 하루 하나씩 업데이트 예정
 
 #### [5.Combining Operators](5.CombiningOperators/5.CombiningOperators.md)
 
+#### [6.TimeManipulation Operators](6.TimeManipulationOperators/6.TimeManipulationOperators.md)
+
 
 ![Publisher&Subscriber](resources/intro.png)
 
