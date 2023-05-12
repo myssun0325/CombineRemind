@@ -18,6 +18,8 @@ Combine 다시 훑고 적용하기. 하루 하나씩 업데이트 예정
 
 #### [6.TimeManipulation Operators](6.TimeManipulationOperators/6.TimeManipulationOperators.md)
 
+#### [7.Sequence Operators](7.SequenceOperators/7.SequenceOperators.md)
+
 
 ![Publisher&Subscriber](resources/intro.png)
 
