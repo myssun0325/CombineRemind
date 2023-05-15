@@ -2,7 +2,7 @@
 
 Combine 다시 훑고 적용하기. 하루 하나씩 업데이트 예정
 
-[kodeco - Combinw](https://www.kodeco.com/books/combine-asynchronous-programming-with-swift)
+[kodeco - Combine 링크](https://www.kodeco.com/books/combine-asynchronous-programming-with-swift)
 
 [이전 책 내용 정리 링크](https://github.com/myssun0325/CombineStudy#combinestudy)
 
@@ -21,6 +21,8 @@ Combine 다시 훑고 적용하기. 하루 하나씩 업데이트 예정
 #### [6.TimeManipulation Operators](6.TimeManipulationOperators/6.TimeManipulationOperators.md)
 
 #### [7.Sequence Operators](7.SequenceOperators/7.SequenceOperators.md)
+
+#### [8.Share Publisher](8.SharePublisher/8.SharePublisher.md)
 
 
 ![Publisher&Subscriber](resources/intro.png)
