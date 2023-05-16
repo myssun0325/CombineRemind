@@ -24,7 +24,7 @@ Combine 다시 훑고 적용하기. 하루 하나씩 업데이트 예정
 
 #### [8.Share Publisher](8.SharePublisher/8.SharePublisher.md)
 
-#### [9.Networking](9.Networking/9.Networking)
+#### [9.Networking](9.Networking/9.Networking.md)
 
 
 ![Publisher&Subscriber](resources/intro.png)
