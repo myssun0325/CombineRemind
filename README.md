@@ -26,6 +26,8 @@ Combine 다시 훑고 적용하기. 하루 하나씩 업데이트 예정
 
 #### [9.Networking](9.Networking/9.Networking.md)
 
+#### [10.Debugging](10.Debugging/10.Debugging.md)
+
 
 ![Publisher&Subscriber](resources/intro.png)
 
