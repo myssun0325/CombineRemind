@@ -38,6 +38,10 @@ Combine 다시 훑고 적용하기. 하루 하나씩 업데이트 예정
 
 #### [15.InPractice: Combine & SwiftUI](15.InPracticeCombineSwiftUI/15.InPracticeCombineSwiftUI.md)
 
+#### [16.ErrorHandling](16.ErrorHandling/16.ErrorHandling.md)
+
+#### [17.Schedulers](17.Schedulers/17.Schedulers.md)
+
 ![Publisher&Subscriber](resources/intro.png)
 
 
