@@ -44,6 +44,8 @@ Combine 다시 훑고 적용하기. 하루 하나씩 업데이트 예정
 
 #### [18.CustomPublisherHandlingBackpressure](18.CustomPublisherHandlingBackpressure/18.CustomPublisherHandlingBackpressure.md)
 
+#### [19.Testing](19.Testing/19.Testing.md)
+
 ![Publisher&Subscriber](resources/intro.png)
 
 
